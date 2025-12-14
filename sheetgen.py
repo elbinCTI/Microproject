@@ -2,7 +2,7 @@ import csv
 import string
 import random
 
-file=r"ds2.csv"
+file=r"enc1.csv"
 
 h=["ch"] + [str(i) for i in range(1, 64)]
 ch=list(string.ascii_uppercase + string.ascii_lowercase + string.digits)
@@ -33,4 +33,5 @@ with open(file, "w", newline="", encoding="utf-8") as f:
     writer.writerows(rows)
 
 print(f"CSV file '{file}' created using random characters.")
+
 
