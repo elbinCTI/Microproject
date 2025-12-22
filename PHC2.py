@@ -7,6 +7,7 @@ with open("ds2.csv", mode="r") as f:
     for i in a:
         if i==' ':
             print(' ',end='')
+            continue
         for r in reader:
             if r[0] == i:
                 print(r[p], end="")
