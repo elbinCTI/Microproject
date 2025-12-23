@@ -1,10 +1,6 @@
-this is versoin 2 of the encrption program i made 3 months ago
+Welcome to version 3
 
-what's new:
-*new program to generate a dataset
+this version is the same thing but uses binary files so that no one can easily traceback the message
+ofcourse this didnt take much time but i am starting to get invested in this project
 
-well thats all there is in it lol
-anyway if i get another hit of inspiration, 
-i will comeback again and modify it furthur
-
-lets hope it happens
+i hope this will lead to more ideas in the near future for me
