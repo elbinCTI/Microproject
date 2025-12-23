@@ -1,7 +1,7 @@
 import csv as c
 a=input("enter text to encode: ")
 p=1
-with open("ds2.csv", mode="r") as f:
+with open("enc1.csv", mode="r") as f:
     reader=c.reader(f)  
     next(reader) 
     for i in a:
