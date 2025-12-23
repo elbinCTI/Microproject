@@ -27,11 +27,11 @@ for col in range(1, num_columns):  # skip column 0 ("ch"/labels)
         used.add(c)
         rows[r].append(c)
 
-# 6. Write to CSV
+# 5. Write to binary file using pickle
 with open(file, "wb") as f:
     for i in rows:
         pickle.dump(i,f)
 
-print(f"CSV file '{file}' created using random characters.")
+print(f"Binary file '{file}' created using random characters.")
 
 
