@@ -1,5 +1,5 @@
 import csv as c
-a=input("enter a char: ")
+a=input("enter text to encode: ")
 p=1
 with open("ds2.csv", mode="r") as f:
     reader=c.reader(f)  
@@ -16,4 +16,5 @@ with open("ds2.csv", mode="r") as f:
         if p==63:
             p=1
         f.seek(0)
+
 
