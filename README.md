@@ -1,6 +1,6 @@
-Welcome to version 3
+VER-0.1
 
-this version is the same thing but uses binary files so that no one can easily traceback the message
-ofcourse this didnt take much time but i am starting to get invested in this project
-
-i hope this will lead to more ideas in the near future for me
+This is project hyper cipher.
+it is a message encryptor where a character at its respective posiition changes to some other character
+ofcourse this is not the end as automating the file generation is the next step
+let's hope it comes that
