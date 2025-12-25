@@ -1,7 +1,7 @@
 import csv as c
 a=input("enter text to decode: ")
 p=1
-with open("C:\\Users\\elbin\\OneDrive\\Desktop\\hc\\ds2.csv", mode="r") as f:
+with open("ds2.csv", mode="r") as f:
     reader=c.reader(f)  
     next(reader) 
     for i in a:
@@ -16,3 +16,4 @@ with open("C:\\Users\\elbin\\OneDrive\\Desktop\\hc\\ds2.csv", mode="r") as f:
             p=1
         f.seek(0)
         next(reader)
+
