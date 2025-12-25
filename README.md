@@ -1,3 +1,5 @@
+VER-0.3
+
 Welcome to version 3
 
 this version is the same thing but uses binary files so that no one can easily traceback the message
