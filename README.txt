@@ -14,4 +14,5 @@ Future Plans:
 -Improving security of encryption sheet
 
 Note:
-The file 'enct.dat' is a test file, it also tells the user what kind of format the file must be in
+-The file 'enct.dat' is a test file, it also tells the user what kind of format the file must be in
+-Run 'main' file only
