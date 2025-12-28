@@ -9,7 +9,6 @@ What's new:
 -Accientally implemented multi-level encoding using multiple encryption sheets 
 -Re-introduced 2-way encryption (meaning decryptor can be used to encrypt messages)(this was available in VER-0.1)
 
-
 Future Plans:
 -Improving security of encryption sheet
 
