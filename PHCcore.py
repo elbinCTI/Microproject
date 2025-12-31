@@ -28,7 +28,7 @@ def enc(a,f):
                 print(r[p], end="")
                 p+=1
                 break
-        if p==63:
+        if p==95:
             p=1
     print("\n")
 
@@ -60,7 +60,7 @@ def dec(a,f):
                 print(r[0], end="")
                 p+=1
                 break
-        if p==63:
+        if p==95:
             p=1
     print("\n")
 
