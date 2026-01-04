@@ -11,6 +11,7 @@ What's new:
 
 Future Plans:
 -Improving security of encryption sheet
+-Increasing the encryptability
 
 Note:
 -The file 'enct.dat' is a test file, it also tells the user what kind of format the file must be in
